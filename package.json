@@ -1,0 +1,11 @@
+{
+  "name": "discord-clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "s": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
